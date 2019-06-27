@@ -1,0 +1,14 @@
+C:\Users\Галя\source\repos\6_ZD\6_ZD\bin\Debug\6_ZD.exe.config
+C:\Users\Галя\source\repos\6_ZD\6_ZD\bin\Debug\6_ZD.exe
+C:\Users\Галя\source\repos\6_ZD\6_ZD\bin\Debug\6_ZD.pdb
+C:\Users\Галя\source\repos\6_ZD\6_ZD\obj\Debug\6_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\source\repos\6_ZD\6_ZD\obj\Debug\6_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\source\repos\6_ZD\6_ZD\obj\Debug\6_ZD.exe
+C:\Users\Галя\source\repos\6_ZD\6_ZD\obj\Debug\6_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\bin\Debug\6_ZD.exe.config
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\bin\Debug\6_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\bin\Debug\6_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\obj\Debug\6_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\obj\Debug\6_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\obj\Debug\6_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\6_ZD\6_ZD\obj\Debug\6_ZD.pdb
